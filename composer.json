@@ -1,0 +1,27 @@
+{
+    "name": "nonameffh/f-dsn",
+    "description": "helpers class for Yii2",
+    "type": "yii2-extension",
+	"version":"0.1.1",
+    "homepage": "https://github.com/fourteenmeister/dsn",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Kamaev",
+            "email": "fourteenmeister@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "2.*"
+    },
+    "support": {
+        "issues": "https://github.com/fourteenmeister/dsn/issues",
+        "source": "https://github.com/fourteenmeister/dsn"
+    },
+    "autoload": {
+        "psr-4": {
+            "fourteenmeister\\helpers\\": "src"
+        }
+    }
+}
