@@ -1,6 +1,6 @@
 {
   "name":        "nonameffh/f-dsn",
-  "description": "Dsn parser helper for Yii2",
+  "description": "Dsn (data source name) parser helper for Yii2",
   "type":        "yii2-extension",
   "version":     "0.1.2",
   "license":     "MIT",
