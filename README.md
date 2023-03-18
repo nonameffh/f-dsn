@@ -1,4 +1,4 @@
-## Dsn connection string parsing
+## Dsn (data source name) connection string parsing
 
 parsing dsn connection strings for most databases.
 
